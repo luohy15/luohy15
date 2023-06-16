@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luohy15&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=luohy15&langs_count=5&layout=compact&custom_title=Last%207%20Days)
+
+![](https://api.atuin.sh/img/luohy15.png?token=83dfb432cb6fb61ef68fa9fa6b6931fe59a84e6f)
