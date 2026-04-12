@@ -1,23 +1,19 @@
-### Hi there 👋
+Hi, I’m Roy (Huayi) Luo, a software engineer who loves building AI tools and exploring new tech.
 
-<!--
-**luohy15/luohy15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working at [Alpha Vantage][alphavantage] (YC S18), where I build AI-powered financial tools. I work on [trading-agents.ai](https://trading-agents.ai), Alpha Vantage's deployment of [TradingAgents][tradingagents] — a multi-agent LLM framework for financial trading analysis, with added deployment infrastructure and UI. I also built the [Alpha Vantage MCP Server][av-mcp] to bring market data into the AI agent ecosystem.
 
-Here are some ideas to get you started:
+On the side, I build personal AI infrastructure. [y-agent][y-agent] is my toolkit for orchestrating AI agents — it powers my daily workflow through Telegram and Claude Code integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I worked at Zhipu AI, Alibaba Cloud, and BizSeer. I graduated from Tsinghua University in 2019 with a degree in Computer Science.
 
-![](https://github-readme-stats.vercel.app/api?username=luohy15&hide=stars,contribs)
+You can find me at:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luohy15&layout=compact)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=luohy15&langs_count=5&layout=compact&custom_title=Last%207%20Days)
+- [Blog](https://luohy15.com)
+- [Twitter](https://x.com/myroy15)
+- [LinkedIn](https://www.linkedin.com/in/huayiluo/)
+- [Telegram](https://t.me/luohy15)
 
-![](https://api.atuin.sh/img/luohy15.png?token=83dfb432cb6fb61ef68fa9fa6b6931fe59a84e6f)
+[alphavantage]: https://www.alphavantage.co/
+[tradingagents]: https://github.com/TauricResearch/TradingAgents
+[av-mcp]: https://github.com/alphavantage/alpha_vantage_mcp
+[y-agent]: https://github.com/luohy15/y-agent
